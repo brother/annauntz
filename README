@@ -1,0 +1,15 @@
+
+Trigger funny responses.
+
+
+https://www.facebook.com/Annauntz
+https://www.youtube.com/watch?v=lhtpga1KZjA
+
+
+Ideas and thoughts
+------------------
+
+Make the trigger + response some kind of mapping instead of a if -
+then - else construct.
+Make the matching sloppy, having a full stop, question mark or such
+things at the end of the line will not make it a match at this stage.
